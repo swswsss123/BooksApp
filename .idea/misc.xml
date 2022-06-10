@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User3/AndroidStudioProjects/BooksApp/app/src/main/res/drawable/shape_button01.xml" value="0.1" />
+        <entry key="..\:/Users/User3/AndroidStudioProjects/BooksApp/app/src/main/res/drawable/shape_button02.xml" value="0.1" />
+        <entry key="..\:/Users/User3/AndroidStudioProjects/BooksApp/app/src/main/res/drawable/shape_eddittext01.xml" value="0.1" />
+        <entry key="..\:/Users/User3/AndroidStudioProjects/BooksApp/app/src/main/res/drawable/shape_toolbar01.xml" value="0.1" />
+        <entry key="..\:/Users/User3/AndroidStudioProjects/BooksApp/app/src/main/res/drawable/shape_toolbar02.xml" value="0.1" />
+        <entry key="..\:/Users/User3/AndroidStudioProjects/BooksApp/app/src/main/res/layout/activity_dashbors_user.xml" value="0.3170289855072464" />
+        <entry key="..\:/Users/User3/AndroidStudioProjects/BooksApp/app/src/main/res/layout/activity_login.xml" value="0.20673076923076922" />
+        <entry key="..\:/Users/User3/AndroidStudioProjects/BooksApp/app/src/main/res/layout/activity_main.xml" value="0.25903614457831325" />
+        <entry key="..\:/Users/User3/AndroidStudioProjects/BooksApp/app/src/main/res/layout/activity_regisrer.xml" value="0.25" />
+        <entry key="..\:/Users/User3/AndroidStudioProjects/BooksApp/app/src/main/res/layout/activity_splash.xml" value="0.31431159420289856" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
